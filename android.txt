@@ -1,3 +1,0 @@
-title=AppliMenu
-author=flannois
-orientation=portrait
